@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\arnav\OneDrive\Desktop\tradeSim\build\CMakeFiles\7b52da7946cbe009355863dcfffbe62d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3AB61C03-88FA-318C-9528-151E7F91E426}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\arnav\OneDrive\Desktop\tradeSim\build\TradeSim_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arnav\OneDrive\Desktop\tradeSim\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arnav\OneDrive\Desktop\tradeSim\src\websocket\WSClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arnav\OneDrive\Desktop\tradeSim\src\orderbook\OrderBook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arnav\OneDrive\Desktop\tradeSim\src\models\SlippageModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arnav\OneDrive\Desktop\tradeSim\src\models\AlmgrenChriss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arnav\OneDrive\Desktop\tradeSim\src\UI\MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arnav\OneDrive\Desktop\tradeSim\build\TradeSim_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arnav\OneDrive\Desktop\tradeSim\build\TradeSim_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arnav\OneDrive\Desktop\tradeSim\build\TradeSim_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\arnav\OneDrive\Desktop\tradeSim\src\websocket\WSClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arnav\OneDrive\Desktop\tradeSim\src\orderbook\OrderBook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arnav\OneDrive\Desktop\tradeSim\src\models\SlippageModel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arnav\OneDrive\Desktop\tradeSim\src\models\AlmgrenChriss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\arnav\OneDrive\Desktop\tradeSim\src\UI\SimulatorUI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\arnav\OneDrive\Desktop\tradeSim\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{99826413-C683-3C86-9468-C1EA88522D02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EAED7973-C287-3A72-B4A7-310B0671CC5C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

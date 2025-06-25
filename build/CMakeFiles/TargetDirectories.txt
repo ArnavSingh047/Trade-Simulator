@@ -1,0 +1,3 @@
+C:/Users/arnav/OneDrive/Desktop/tradeSim/build/CMakeFiles/TradeSim.dir
+C:/Users/arnav/OneDrive/Desktop/tradeSim/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/arnav/OneDrive/Desktop/tradeSim/build/CMakeFiles/ZERO_CHECK.dir

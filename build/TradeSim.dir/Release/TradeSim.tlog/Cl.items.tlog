@@ -1,0 +1,7 @@
+C:\Users\arnav\OneDrive\Desktop\tradeSim\main.cpp;C:\Users\arnav\OneDrive\Desktop\tradeSim\build\TradeSim.dir\Release\main.obj
+C:\Users\arnav\OneDrive\Desktop\tradeSim\src\websocket\WSClient.cpp;C:\Users\arnav\OneDrive\Desktop\tradeSim\build\TradeSim.dir\Release\WSClient.obj
+C:\Users\arnav\OneDrive\Desktop\tradeSim\src\orderbook\OrderBook.cpp;C:\Users\arnav\OneDrive\Desktop\tradeSim\build\TradeSim.dir\Release\OrderBook.obj
+C:\Users\arnav\OneDrive\Desktop\tradeSim\src\models\SlippageModel.cpp;C:\Users\arnav\OneDrive\Desktop\tradeSim\build\TradeSim.dir\Release\SlippageModel.obj
+C:\Users\arnav\OneDrive\Desktop\tradeSim\src\models\AlmgrenChriss.cpp;C:\Users\arnav\OneDrive\Desktop\tradeSim\build\TradeSim.dir\Release\AlmgrenChriss.obj
+C:\Users\arnav\OneDrive\Desktop\tradeSim\src\UI\MainWindow.cpp;C:\Users\arnav\OneDrive\Desktop\tradeSim\build\TradeSim.dir\Release\MainWindow.obj
+C:\Users\arnav\OneDrive\Desktop\tradeSim\build\TradeSim_autogen\mocs_compilation_Release.cpp;C:\Users\arnav\OneDrive\Desktop\tradeSim\build\TradeSim.dir\Release\mocs_compilation_Release.obj
